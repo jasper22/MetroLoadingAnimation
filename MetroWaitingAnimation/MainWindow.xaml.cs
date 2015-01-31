@@ -21,7 +21,7 @@ namespace MetroWaitingAnimation
 		{
 			this.InitializeComponent();
 
-			// Insert code required on object creation below this point.
+			// Insert code required on object creation below this point. 
 		}
 	}
 }
